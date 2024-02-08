@@ -5,4 +5,4 @@ keytool -genkey -alias servidor  -keyalg RSA -keystore AlmacenSrv -storepass 123
 keytool -exportcert -alias servidor -keystore AlmacenSrv -storepass 1234567 -file my_certificate.crt
 ```
 
-Certificado almacenado en la carpeta res -> raw
+Certificado almacenado en la carpeta res -> raw.
