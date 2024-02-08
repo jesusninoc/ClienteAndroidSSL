@@ -1,4 +1,4 @@
-Cliente en Android que utiliza certificado, certificado creado así:
+Cliente en Android que utiliza certificado RSA, exportar certificado para usarlo en Android:
 
 ```Shell
 keytool -genkey -alias servidor  -keyalg RSA -keystore AlmacenSrv -storepass 1234567
