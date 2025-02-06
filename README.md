@@ -1,3 +1,5 @@
+NO FUNCIONA CORRECTAMENTE.
+
 Cliente en Android que utiliza certificado RSA, exportar certificado para usarlo en Android:
 
 ```Shell
